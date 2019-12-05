@@ -48,5 +48,52 @@
         "title": "vel voluptatem repellat nihil placeat corporis",
         "completed": false
       }
-    ]
+  ],
+  "cc2": [
+      {
+          "nom": "Mozart",
+          "prenom": "Jacques",
+          "date_naissance": "1964-04-23",
+          "films_favoris": [
+              {
+                  "titre": "A bout de souffle",
+                  "etoiles": 4
+              },
+              {
+                  "titre": "Le péril jeune",
+                  "etoiles": 3
+              }
+          ]
+      },
+      {
+          "nom": "Rubenstein",
+          "prenom": "Lina",
+          "date_naissance": "1990-04-12",
+          "films_favoris": [
+              {
+                  "titre": "Le Dictateur",
+                  "etoiles": 5
+              },
+              {
+                  "titre": "12 hommes en colère",
+                  "etoiles": 2
+              },
+              {
+                  "titre": "Le Parrain",
+                  "etoiles": 4
+              }
+          ]
+      },
+      {
+          "nom": "Arlot",
+          "prenom": "Thomas",
+          "date_naissance": "1960-06-16",
+          "films_favoris": [
+              {
+                  "titre": "Le retour du Jedi",
+                  "etoiles": 4
+              }
+          ]
+      },
+  ]
 }
