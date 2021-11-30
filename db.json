@@ -95,5 +95,23 @@
               }
           ]
       }
+  ],
+  "cc2": [
+    {
+      "titre": "Les Misérables",
+      "auteurs": ["Éric Salch"]
+    },
+    {
+      "titre": "Blast",
+      "auteurs": ["Manu Larcenet"]
+    },
+    {
+      "titre": "Le retour à la terre",
+      "auteurs": ["Jean-Yves Ferri", "Manu Larcenet"]
+    },
+    {
+      "titre": "Asterix et le Griffon",
+      "auteurs": ["Jean-Yves Ferri", "Didier Conrad"]
+    }
   ]
 }
