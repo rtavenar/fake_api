@@ -282,5 +282,47 @@
       },
       "author": "bob3"
     }
+  ],
+  "adresses_amis": [
+    {
+      "prénom": "Michele",
+      "nom": "Ambrosini",
+      "adresse": {
+        "numéro": 2,
+        "voie": "allée Pierre Tumoine",
+        "code_postal": 35000,
+        "ville": "Rennes"
+      }
+    },
+    {
+      "prénom": "Rodrigue",
+      "nom": "Fermi",
+      "adresse": {
+        "numéro": 34,
+        "voie": "rue de la Paix",
+        "code_postal": 53000,
+        "ville": "Laval"
+      }
+    },
+    {
+      "prénom": "Laura",
+      "nom": "Pauli",
+      "adresse": {
+        "numéro": 1,
+        "voie": "Place de l'Hôtel de Ville",
+        "code_postal": 35115,
+        "ville": "Fougères"
+      }
+    },
+    {
+      "prénom": "Estelle",
+      "nom": "Ruggieri",
+      "adresse": {
+        "numéro": 34,
+        "voie": "rue Alexandre Fournier",
+        "code_postal": 53200,
+        "ville": "Château Gontier"
+      }
+    }
   ]
 }
