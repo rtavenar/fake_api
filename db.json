@@ -51,8 +51,6 @@
   ],
   "adresses_amis": [
     {
-      "prénom": "Michele",
-      "nom": "Ambrosini",
       "adresse": {
         "numéro": 2,
         "voie": "allée Pierre Tumoine",
@@ -61,8 +59,6 @@
       }
     },
     {
-      "prénom": "Rodrigue",
-      "nom": "Fermi",
       "adresse": {
         "numéro": 34,
         "voie": "rue de la Paix",
@@ -71,8 +67,6 @@
       }
     },
     {
-      "prénom": "Laura",
-      "nom": "Pauli",
       "adresse": {
         "numéro": 1,
         "voie": "Place de l'Hôtel de Ville",
@@ -81,8 +75,6 @@
       }
     },
     {
-      "prénom": "Estelle",
-      "nom": "Ruggieri",
       "adresse": {
         "numéro": 34,
         "voie": "rue Alexandre Fournier",
